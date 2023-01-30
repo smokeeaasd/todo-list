@@ -1,0 +1,15 @@
+.task {
+	text-align: justify;
+	color: #333;
+	background-color: #fff;
+	cursor: pointer;
+	transition: 300ms;
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, .2);
+	border-radius: 5px;
+}
+
+.task p {
+	overflow-wrap: break-word;
+	text-align: justify;
+	justify-content: start;
+}
