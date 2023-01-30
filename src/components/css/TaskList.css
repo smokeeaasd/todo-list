@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+
+.task-list {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 1px solid red;
+}
+
+.task {
+	text-align: center;
+	margin: 10px;
+	font-family: "Product Sans", sans-serif;
+	font-size: 1.25rem;
+	padding: 10px 10px;
+}
