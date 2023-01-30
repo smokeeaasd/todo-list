@@ -1,0 +1,18 @@
+.add-task-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.button, .input {
+	margin: 10px;
+	font-size: 1.25rem;
+	height: 50px;
+}
+
+.input {
+	width: 60%;
+}
+
+.button {
+	width: 25%;
+}
