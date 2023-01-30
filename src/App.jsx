@@ -9,14 +9,14 @@ function App() {
     const [tasks, setTasks] = useState([
         {
             id: v4(),
-            title: "Tomar umaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassa",
+            title: "Tomar uma",
             completed: true,
         },
         {
             id: v4(),
-            title: "Tomar umaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasassa",
-            completed: true,
-        },
+            title: "Tomar duas",
+            completed: false,
+        }
     ]);
 
     function addTask(title) {
