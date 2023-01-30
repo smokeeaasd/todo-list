@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+
+.button {
+	background-color: #077bda;
+	color: #eee;
+	font-family: "Product Sans", sans-serif;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+	box-shadow: 0px 3px 3px rgba(0, 0, 0, .2);
+	transition: 300ms;
+}
+
+.button:hover {
+	background-color: #076cbe;
+}
