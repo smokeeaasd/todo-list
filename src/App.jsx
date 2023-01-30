@@ -20,6 +20,7 @@ function App() {
     ]);
 
     function addTask(title) {
+		if (title === "") return;
         const newTasks = [
             ...tasks,
             {
