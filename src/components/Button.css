@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.cdnfonts.com/css/google-sans');
 
 .button {
 	background-color: #09ec7b;
 	box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
 	color: #eee;
-	font-family: "Roboto", sans-serif;
+	font-family: "Product Sans", sans-serif;
+	border: none;
+	cursor: pointer;
 }
 
 .button:hover {
