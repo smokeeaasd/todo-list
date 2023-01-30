@@ -1,4 +1,4 @@
-# Criar aplicativo React
+# Create React App
 
 Este diretório é um breve exemplo de um site [Create React App](https://github.com/facebook/create-react-app) que pode ser implantado no Vercel com configuração zero.
 
@@ -10,7 +10,7 @@ Implante seu próprio projeto Create React App com Vercel.
 
 _Exemplo ao vivo: https://create-react-template.vercel.app/_
 
-## Scripts disponíveis
+## Scripts
 
 No diretório do projeto, você pode executar:
 
